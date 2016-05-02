@@ -1,10 +1,11 @@
-package com.github.talberto.scalaerrorhandling.tryexercice.exo
+package tryexercice.exo
 
 import java.time.LocalDate
-import com.github.talberto.scalaerrorhandling.tryexercice.dao.InMemoryUserRepository
-import com.github.talberto.scalaerrorhandling.tryexercice.models._
-import com.github.talberto.scalaerrorhandling.tryexercice.{UserFixtures, ParsedContactInfoFixtures, ParsedUserFixtures}
+
 import org.scalatest._
+import tryexercice.dao.InMemoryUserRepository
+import tryexercice.models._
+import tryexercice.{ParsedContactInfoFixtures, ParsedUserFixtures, UserFixtures}
 
 import scala.collection.mutable
 import scala.util.Random

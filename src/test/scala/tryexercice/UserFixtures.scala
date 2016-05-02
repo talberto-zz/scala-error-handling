@@ -1,8 +1,8 @@
-package com.github.talberto.scalaerrorhandling.tryexercice
+package tryexercice
 
 import java.time.LocalDate
 
-import com.github.talberto.scalaerrorhandling.tryexercice.models.{ContactInfo, Country, User}
+import tryexercice.models.{ContactInfo, Country, User}
 
 object UserFixtures {
 

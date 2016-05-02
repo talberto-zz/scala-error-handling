@@ -1,6 +1,6 @@
-package com.github.talberto.scalaerrorhandling.tryexercice.dao
+package tryexercice.dao
 
-import com.github.talberto.scalaerrorhandling.tryexercice.models.Country
+import tryexercice.models.Country
 import org.scalatest.{FlatSpec, GivenWhenThen, Matchers}
 
 class DefaultCountryRepositorySpec extends FlatSpec

@@ -1,4 +1,4 @@
-package com.github.talberto.scalaerrorhandling.tryexercice.exo
+package tryexercice.exo
 
 import org.scalatest._
 import play.api.libs.json.{JsArray, JsNumber}

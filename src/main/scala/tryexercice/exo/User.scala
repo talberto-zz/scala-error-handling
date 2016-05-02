@@ -1,9 +1,9 @@
-package com.github.talberto.scalaerrorhandling.tryexercice.exo
+package tryexercice.exo
 
 import java.time.LocalDate
 
-import com.github.talberto.scalaerrorhandling.tryexercice.dao.DefaultUserRepository
-import com.github.talberto.scalaerrorhandling.tryexercice.models.{User, UserRepository}
+import tryexercice.dao.DefaultUserRepository
+import tryexercice.models.{User, UserRepository}
 import play.api.libs.json.JsValue
 
 import scala.util.Try

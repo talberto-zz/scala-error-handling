@@ -1,8 +1,8 @@
-package com.github.talberto.scalaerrorhandling.tryexercice
+package tryexercice
 
 import java.time.LocalDate
 
-import com.github.talberto.scalaerrorhandling.tryexercice.exo.ParsedUser
+import tryexercice.exo.ParsedUser
 
 object ParsedUserFixtures {
   val validParsedUser = ParsedUser(

@@ -1,8 +1,8 @@
-package com.github.talberto.scalaerrorhandling.tryexercice.dao
+package tryexercice.dao
 
 import java.time.{LocalDate, Period}
 
-import com.github.talberto.scalaerrorhandling.tryexercice.models._
+import tryexercice.models._
 
 import scala.collection.mutable
 

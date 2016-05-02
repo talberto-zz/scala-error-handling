@@ -1,4 +1,4 @@
-package com.github.talberto.scalaerrorhandling.tryexercice.models
+package tryexercice.models
 
 import java.util.Locale
 

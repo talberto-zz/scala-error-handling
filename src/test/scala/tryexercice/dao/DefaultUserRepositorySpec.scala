@@ -1,7 +1,7 @@
-package com.github.talberto.scalaerrorhandling.tryexercice.dao
+package tryexercice.dao
 
-import com.github.talberto.scalaerrorhandling.tryexercice.UserFixtures
 import org.scalatest.{FlatSpec, GivenWhenThen, Matchers}
+import tryexercice.UserFixtures
 
 class DefaultUserRepositorySpec extends FlatSpec
   with GivenWhenThen

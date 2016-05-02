@@ -1,7 +1,7 @@
-package com.github.talberto.scalaerrorhandling.tryexercice.exo
+package tryexercice.exo
 
-import com.github.talberto.scalaerrorhandling.tryexercice.dao.DefaultCountryRepository
-import com.github.talberto.scalaerrorhandling.tryexercice.models.{Country, CountryRepository}
+import tryexercice.dao.DefaultCountryRepository
+import tryexercice.models.{Country, CountryRepository}
 import play.api.libs.json.JsValue
 
 import scala.util.Try

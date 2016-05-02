@@ -1,6 +1,6 @@
-package com.github.talberto.scalaerrorhandling.tryexercice.dao
+package tryexercice.dao
 
-import com.github.talberto.scalaerrorhandling.tryexercice.models.{Country, CountryAlreadyExistsException, CountryConstraints, CountryRepository}
+import tryexercice.models.{Country, CountryAlreadyExistsException, CountryConstraints, CountryRepository}
 
 import scala.collection.mutable
 
